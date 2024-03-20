@@ -4,7 +4,7 @@
 # Microsoft Movie Studio: Data-Driven Decisions for Success
 
 
-**Author**: Fredrick Munyao Kyeki
+**Author**:Kitili Mourine
 
 
 ### Contents
@@ -306,7 +306,7 @@ Other Recommendations:
 - conda 4.10.3
 
 ### Authors :fountain_pen:
-* [Fredrick Kyeki](https://github.com/FREDRICKKYEKI) - @FREDRICKKYEKI
+* [Kitili Mourine] https://github.com/kitili/phase_1_project
 
 ## Repository Structure
 
